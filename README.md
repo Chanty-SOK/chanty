@@ -4,4 +4,4 @@
 - 🌱 I used PHP,Javascript and now learning VueJs and React for 
 - 💬 Ask me about anything
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phannaly&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanty&theme=radical" />
